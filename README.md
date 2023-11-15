@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ken DeMaria @kdemaria-modusbox
-- 👀 IT Ops Mgr at ModusBox
+- 👀 IT Ops Mgr at PortX
 
 <!---
 kdemaria-modusbox/kdemaria-modusbox is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
